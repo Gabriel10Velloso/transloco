@@ -1,0 +1,8 @@
+{
+    "hello": "Hello World",
+    "apples": "I have {{count}} apples",
+    "dashboard": {
+        "title": "Dashboard title",
+        "conter": "Dashboard conter"
+    }
+}

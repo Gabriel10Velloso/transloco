@@ -1,0 +1,8 @@
+{
+    "hello": "Hola Mundo",
+    "apples": "Tengo {{count}} manzanas",
+    "dashboard": {
+        "title": "Título del tablero",
+        "conter": "Conter del tablero"
+    }
+}

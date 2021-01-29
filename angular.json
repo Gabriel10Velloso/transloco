@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "transloco"
+  "defaultProject": "transloco",
+  "cli": {
+    "analytics": "d4186b85-cf85-4b52-966c-f8632ac56542"
+  }
 }

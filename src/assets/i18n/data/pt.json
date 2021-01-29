@@ -1,0 +1,12 @@
+{
+    "home": {
+        "title": "Página Inicial",
+        "welcome_text": "Deixem as pessoas morrerem de amores por suas ideias",
+        "email_text": "Email pt com {{email}}",
+        "sun_text": "Quando o valor {{value}} é somado ao valor {{value2}} = "
+    },
+
+    "settings": {
+        "title": "Configuração da página"
+    }
+}
